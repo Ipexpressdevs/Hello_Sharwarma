@@ -1,0 +1,5 @@
+{
+  "name": "Hello Shawarma",
+  "description": "A B2B ordering and CRM platform for shawarma vendors, supplying ingredients, condiments, and packaging materials. Vendors can browse products, place orders, and manage their account, while admins oversee the entire operation.",
+  "requestFramePermissions": []
+}
